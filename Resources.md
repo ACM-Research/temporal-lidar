@@ -19,3 +19,7 @@ Potentially useful resources. Feel free to add anything to this.
 ## Datasets
 [Kitti](http://www.cvlibs.net/datasets/kitti/eval_object.php)  
 [Waymo](https://blog.waymo.com/2019/08/waymo-open-dataset-sharing-our-self.html)  
+
+## Integrating a github repo to google colab
+https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228
+
