@@ -1,0 +1,3 @@
+[submodule "RandLA-Net"]
+	path = RandLA-Net
+	url = https://github.com/GaganBhat/RandLA-Net
