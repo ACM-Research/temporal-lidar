@@ -1,0 +1,80 @@
+Epoch   0, end. Min possibility = 3.7
+
+Confusion on sub clouds
+61.77 | 90.71 95.38 79.80  0.00 23.89 59.37 48.59 75.50 81.91 58.72 70.64 65.31 53.17 
+
+
+Reproject Vote #3
+Confusion on full clouds
+Area_5_storage_3 Acc:0.785687429502444
+Area_5_office_30 Acc:0.9294076627573225
+Area_5_office_27 Acc:0.8867670174287005
+Area_5_hallway_9 Acc:0.9506866074103665
+Area_5_hallway_15 Acc:0.8597391665573484
+Area_5_office_8 Acc:0.9256440916262437
+Area_5_hallway_5 Acc:0.9440488102297105
+Area_5_WC_2 Acc:0.9017321358844201
+Area_5_office_1 Acc:0.848651450248488
+Area_5_conferenceRoom_1 Acc:0.8762574530764047
+Area_5_office_11 Acc:0.9434974006179576
+Area_5_office_34 Acc:0.8457183950020787
+Area_5_hallway_14 Acc:0.9057388452413756
+Area_5_office_21 Acc:0.8777933782790558
+Area_5_office_6 Acc:0.9071159831173261
+Area_5_office_19 Acc:0.8383612365717823
+Area_5_office_42 Acc:0.8900658158057404
+Area_5_hallway_13 Acc:0.899370780681342
+Area_5_office_10 Acc:0.9039514905981134
+Area_5_conferenceRoom_3 Acc:0.869960243830762
+Area_5_office_3 Acc:0.9074948426363102
+Area_5_hallway_12 Acc:0.9661985323891638
+Area_5_office_40 Acc:0.8760023109141012
+Area_5_pantry_1 Acc:0.728257358679936
+Area_5_hallway_10 Acc:0.9715497868402789
+Area_5_hallway_7 Acc:0.9259327642546878
+Area_5_office_31 Acc:0.8331807453059319
+Area_5_office_36 Acc:0.8751558441558441
+Area_5_conferenceRoom_2 Acc:0.9183538749566288
+Area_5_office_29 Acc:0.7812359829044329
+Area_5_office_12 Acc:0.879289383247448
+Area_5_office_37 Acc:0.814410632952679
+Area_5_office_5 Acc:0.9391234687580321
+Area_5_office_25 Acc:0.8470327782392157
+Area_5_WC_1 Acc:0.8959502215895505
+Area_5_hallway_8 Acc:0.9247126894996412
+Area_5_office_35 Acc:0.9396703733077839
+Area_5_office_38 Acc:0.7813163185473099
+Area_5_office_14 Acc:0.846488182690308
+Area_5_office_16 Acc:0.8818380479957099
+Area_5_office_41 Acc:0.8867744196269939
+Area_5_office_13 Acc:0.8790838969747475
+Area_5_office_15 Acc:0.849596176597138
+Area_5_office_39 Acc:0.849017779462309
+Area_5_office_22 Acc:0.9064778733258674
+Area_5_office_7 Acc:0.890467008017608
+Area_5_office_4 Acc:0.9085674374723457
+Area_5_office_26 Acc:0.829492555584788
+Area_5_office_2 Acc:0.9211309798350645
+Area_5_office_23 Acc:0.8987852897349794
+Area_5_storage_2 Acc:0.6298598357808993
+Area_5_hallway_6 Acc:0.9290013870003461
+Area_5_lobby_1 Acc:0.9705271739971757
+Area_5_office_24 Acc:0.7621643429354038
+Area_5_office_17 Acc:0.8300890739742474
+Area_5_office_20 Acc:0.8443506971347586
+Area_5_storage_1 Acc:0.5916211396115966
+Area_5_office_18 Acc:0.9152577286553616
+Area_5_hallway_2 Acc:0.9240378476244588
+Area_5_hallway_3 Acc:0.9520129021913919
+Area_5_hallway_11 Acc:0.9603247745305801
+Area_5_hallway_1 Acc:0.7032476459854937
+Area_5_office_32 Acc:0.8780039731761194
+Area_5_office_28 Acc:0.9155397231502597
+Area_5_hallway_4 Acc:0.9154783712387408
+Area_5_storage_4 Acc:0.794251785560623
+Area_5_office_33 Acc:0.8888458790947767
+Area_5_office_9 Acc:0.9258076959057433
+--------------------------------------------------------------------------------------
+62.39 | 91.03 95.61 80.09  0.00 24.80 62.25 47.58 76.31 83.44 59.41 70.80 65.93 53.76 
+--------------------------------------------------------------------------------------
+

@@ -1,0 +1,61 @@
+Epoch   0, end. Min possibility = 6.5
+
+Confusion on sub clouds
+61.66 | 94.67 97.54 78.98 36.87 49.86 32.76 62.42 60.88 74.90 54.42 51.20 47.99 59.13 
+
+
+Reproject Vote #6
+Confusion on full clouds
+Area_4_office_10 Acc:0.8589117152474209
+Area_4_hallway_3 Acc:0.8436116267252911
+Area_4_hallway_14 Acc:0.979853493364415
+Area_4_hallway_5 Acc:0.8478947061906703
+Area_4_office_14 Acc:0.8098725186812494
+Area_4_office_20 Acc:0.8354853752801871
+Area_4_office_9 Acc:0.9135146859737171
+Area_4_hallway_12 Acc:0.9355742467645923
+Area_4_office_4 Acc:0.9282858896832418
+Area_4_office_15 Acc:0.8698483908248837
+Area_4_office_11 Acc:0.9434257868031636
+Area_4_WC_4 Acc:0.9328717630239163
+Area_4_office_19 Acc:0.8970496432818074
+Area_4_office_18 Acc:0.8407409964758715
+Area_4_hallway_13 Acc:0.9525713451027417
+Area_4_hallway_4 Acc:0.9199540582321287
+Area_4_storage_4 Acc:0.6183880569794632
+Area_4_office_16 Acc:0.8547727181645592
+Area_4_storage_2 Acc:0.9277463583769331
+Area_4_office_6 Acc:0.9017596104426118
+Area_4_office_17 Acc:0.8880115085962696
+Area_4_hallway_8 Acc:0.8057294406923432
+Area_4_office_8 Acc:0.8873989360529391
+Area_4_WC_2 Acc:0.9278495701140183
+Area_4_lobby_2 Acc:0.8092053085565639
+Area_4_office_5 Acc:0.9213228529329144
+Area_4_office_21 Acc:0.8496032969517584
+Area_4_WC_3 Acc:0.8780935828992029
+Area_4_office_12 Acc:0.8698035112554046
+Area_4_conferenceRoom_3 Acc:0.6629633040826804
+Area_4_WC_1 Acc:0.9774761777935606
+Area_4_office_7 Acc:0.8849485256827188
+Area_4_office_2 Acc:0.864666920136874
+Area_4_office_3 Acc:0.8306253573043678
+Area_4_hallway_10 Acc:0.9010661825281591
+Area_4_conferenceRoom_2 Acc:0.8623083736664379
+Area_4_hallway_7 Acc:0.9407797328874743
+Area_4_hallway_1 Acc:0.8512416354759098
+Area_4_office_1 Acc:0.8748689470032983
+Area_4_office_13 Acc:0.9510416845822656
+Area_4_conferenceRoom_1 Acc:0.9429776929592414
+Area_4_storage_3 Acc:0.825229515528978
+Area_4_storage_1 Acc:0.7073492371193839
+Area_4_hallway_2 Acc:0.8775802489194585
+Area_4_office_22 Acc:0.8308217470590198
+Area_4_hallway_11 Acc:0.9219539584503088
+Area_4_hallway_9 Acc:0.9434767090395833
+Area_4_hallway_6 Acc:0.8961447732479486
+Area_4_lobby_1 Acc:0.6606561916838427
+--------------------------------------------------------------------------------------
+61.85 | 94.42 97.20 79.49 36.99 50.33 34.33 62.87 61.64 74.96 53.28 51.02 48.33 59.18 
+--------------------------------------------------------------------------------------
+

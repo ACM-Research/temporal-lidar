@@ -1,0 +1,10 @@
+Epoch   0, end. Min possibility = 0.0
+Epoch   1, end. Min possibility = 0.0
+Epoch   2, end. Min possibility = 0.5
+ Min possibility = 0.5
+14 finished
+Epoch   0, end. Min possibility = 0.0
+Epoch   1, end. Min possibility = 0.0
+Epoch   2, end. Min possibility = 0.5
+ Min possibility = 0.5
+14 finished
