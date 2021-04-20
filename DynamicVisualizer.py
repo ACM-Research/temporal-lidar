@@ -10,9 +10,9 @@ date = '2011_09_26'
 drive = '0048'
 
 
-frame_range = range(150, 151, 1)
+frame_range = range(1)
 
-dataset = pykitti.raw(basedir, date, drive)
+dataset = pykitti.raw(basedir, date, drive, frames = frame_range)
 
 i = 0
 velo = dataset.get_velo(i)
@@ -27,7 +27,7 @@ if graph_type == "mayavi":
         velo[:, 2],   # z
         velo[:, 2],   # Height data used for shading
         mode="point", 
-        colormap='spectral',  # 'bone', 'copper',
+        colormap='copper',  # 'bone', 'copper',
 
         scale_factor=100,  
         line_width=10,       
