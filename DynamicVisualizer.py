@@ -10,12 +10,15 @@ date = '2011_09_26'
 drive = '0048'
 
 
-frame_range = range(1)
+frame_range = range(10)
 
 dataset = pykitti.raw(basedir, date, drive, frames = frame_range)
 
 i = 0
 velo = dataset.get_velo(i)
+for i in frame_range:
+    velo = np.concatenate((velo, dataset.get_velo(i)))
+
 
 if graph_type == "mayavi":
     import mayavi.mlab
@@ -41,7 +44,7 @@ else:
     import matplotlib.pyplot as plt
     from mpl_toolkits.mplot3d import Axes3D
     
-    skip = 50 
+    skip = 20 
 
     fig = plt.figure()
     ax = fig.add_subplot(111, projection='3d')
