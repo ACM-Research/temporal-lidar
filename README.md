@@ -39,9 +39,40 @@ Our pre-processor solution combines multiple consecutive LIDAR frames over time 
 2. Data from the integrated inertial measurement unit (IMU) is used to compensate for changes in acceleration across frames.
 
 
-## Visualization of Solution
+## Visualization of Frame Fusion
+
+The left image in each row shows the LIDAR point cloud before our algorithm was run while the right represents after our algorithm merged temporal LIDAR frames. 
+
+![Before and After Merge](beforeaftermerge.png)
+
+## Visualization of Segmentation after Frame Fusion
+
+The left image shows segmentation on raw untouched data. The right shows segmentation on the output of our frame merging pre-processor. 
+
+![Segmentation Before and After Merge](segmentbeforeafter.png)
 
 
+## Data Testing Methodology and Results
+
+- We used the industry standard KITTI Self Driving Car Dataset, which con- tains a human-labelled ground truth, to test our modifications.
+- The human-labelled test data was preserved through merging in an isolated process, so that it could be used for measuring accuracy.
+- A RandLA-Net trained on unprocessed data made predictions for both the raw and augmented datasets.
+- The accuracies for 10 types of objects recognized by the model were tested against the ground truth.
+
+![Data Table](datatable.png)
+
+- Our method improved the semantic segmentation accuracy for static and slow-moving objects compared to the original model.
+    - Pedestrian accuracy uplift was 4.7%.
+    - Accuracy for static objects such as traffic lights, sidewalks, and poles improved by 3-5%.
+    - Road accuracy decreased by 2.4%,
+
+## Discussion and Inference
+
+We developed a data augmentation technique that successfully improves semantic segmentation of temporal LIDAR data by using a fusion of consecutive LIDAR frames to improve point cloud density. 
+
+Our data shows a significant improvement in the classification of pedestrians, traffic lights, and other static objects that are important to the practical use case of self-driving vehicles.
+
+Our technique can be expanded upon to make semantic segmentation much more economical for inexpensive LIDAR sensors. Further analysis of the results also reveal that we were able to consistently improve static object detection from point clouds – a specific characteristic that can possibly yield much better results in practical fields such as medicine, architectural mapping, geomatics, and more. We also hope to determine whether or not this technique is applicable to other methods of object detection in 3D space.
 
 
 ### Directory Overview
