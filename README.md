@@ -54,7 +54,7 @@ The left image shows segmentation on raw untouched data. The right shows segment
 
 ## Data Testing Methodology and Results
 
-- We used the industry standard KITTI Self Driving Car Dataset, which con- tains a human-labelled ground truth, to test our modifications.
+- We used the industry standard KITTI Self Driving Car Dataset, which contains a human-labelled ground truth, to test our modifications.
 - The human-labelled test data was preserved through merging in an isolated process, so that it could be used for measuring accuracy.
 - A RandLA-Net trained on unprocessed data made predictions for both the raw and augmented datasets.
 - The accuracies for 10 types of objects recognized by the model were tested against the ground truth.
