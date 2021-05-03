@@ -89,7 +89,7 @@ Our technique can be expanded upon to make semantic segmentation much more econo
 
 - [Gagan Bhat](https://github.com/GaganBhat)
 - [David Kumar](https://github.com/davidk101)
-- [Suvan Cheemalamarri](https://github.com/)
-- [Mithul M](https://github.com/)
+- [Suvan Cheemalamarri](https://github.com/Suvanch)
+- [Mithul M](https://github.com/MithulM)
 - [Eric Zhang](https://github.com/ez314) - Research Lead
 - [Dr. Nicholas Ruozzi](https://personal.utdallas.edu/~nicholas.ruozzi/) - Faculty Advisor
